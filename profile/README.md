@@ -32,7 +32,8 @@ Além disso, o ecossistema inclui projetos voltados para conteúdo técnico, SEO
 
 ## Arquitetura do Ecossistema
 
-<img width="1536" height="1024" alt="ChatGPT Image 11 de mar  de 2026, 19_38_21" src="https://github.com/user-attachments/assets/eabc5ecc-ad13-4a0f-adcb-69f64e05b620" />
+<img width="1536" height="1024" alt="codificando-ideias-mapa-mental-detalhado" src="https://github.com/user-attachments/assets/90f147e2-c3ab-4c60-83d5-efdcceb45413" />
+
 
 ## Repositórios Principais
 
@@ -202,9 +203,12 @@ A arquitetura da Codificando Ideias foi pensada para permitir:
 - Integração simples entre aplicações
 ```
 
-# Contato
-## A Codificando Ideias constrói soluções digitais com foco em estrutura, presença online e crescimento.
+<img width="1536" height="1024" alt="codificando-ideias-arquitetura-detalhada" src="https://github.com/user-attachments/assets/522b7f86-c234-49f0-acab-66e2d6709781" />
 
-### Site oficial: codificandoideias.com
 
-## Organização no GitHub: Codificando-Ideias
+
+## Contato
+### A Codificando Ideias constrói soluções digitais com foco em estrutura, presença online e crescimento.
+
+ Site oficial: codificandoideias.com
+ Organização no GitHub: Codificando-Ideias
