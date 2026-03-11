@@ -1,4 +1,4 @@
-# Codificando Ideias
+# Codificando Ideias 🚀
 
 **Impulsionando negócios através da tecnologia.**
 
@@ -6,9 +6,9 @@ Desenvolvemos sites, sistemas, ferramentas internas e plataformas digitais sob m
 
 ---
 
-## Visão Geral
+## Visão Geral 
 
-A **Codificando Ideias** é organizada como um ecossistema digital modular.
+A **Codificando Ideias** 🚀 é organizada como um ecossistema digital modular.
 
 Cada repositório tem uma responsabilidade específica dentro da jornada do usuário — desde a descoberta da marca, passando pela conversão em lead, até a gestão comercial e a entrega de projetos para clientes.
 
@@ -30,12 +30,12 @@ Supabase Database
 
 Além disso, o ecossistema inclui projetos voltados para conteúdo técnico, SEO e demonstração de capacidade técnica.
 
-## Arquitetura do Ecossistema
+## Arquitetura do Ecossistema 💡
 
 <img width="1536" height="1024" alt="codificando-ideias-mapa-mental-detalhado" src="https://github.com/user-attachments/assets/90f147e2-c3ab-4c60-83d5-efdcceb45413" />
 
 
-## Repositórios Principais
+## Repositórios Principais 
 
 ### Landing Page
 Site institucional da marca.
@@ -50,7 +50,7 @@ Site institucional da marca.
 
 - Captura de newsletter
 ```
-### Tecnologias
+### Tecnologias 
 ```
 - HTML5
 
@@ -90,7 +90,7 @@ Painel administrativo da operação comercial.
 
 - Controle do funil de vendas
 ```
-## Portal do Cliente
+## Portal do Cliente 
 Ambiente utilizado pelos clientes após o fechamento do contrato.
 
 ### Funções
@@ -156,7 +156,7 @@ O backend do ecossistema utiliza *Supabase* como base para banco de dados e API.
 - status
 - links de entrega
 ```
-# Fluxos Principais
+# Fluxos Principais ⚙️
 
 ## Descoberta 
 ```
@@ -191,7 +191,7 @@ Entrega do projeto
 ```
 
 
-# Objetivo da Arquitetura
+# Objetivo da Arquitetura 🎯
 A arquitetura da Codificando Ideias foi pensada para permitir:
 ```
 - Evolução independente de cada sistema
