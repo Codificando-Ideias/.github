@@ -209,6 +209,7 @@ A arquitetura da Codificando Ideias foi pensada para permitir:
 
 ## Contato
 ### A Codificando Ideias constrói soluções digitais com foco em estrutura, presença online e crescimento.
-
+``` 
  Site oficial: codificandoideias.com
+ ``` 
  Organização no GitHub: Codificando-Ideias
